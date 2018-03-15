@@ -1,0 +1,78 @@
+h1 {
+    text-align: center;
+}
+
+input {
+    vertical-align: top;
+    margin: 5px 0;
+}
+
+fieldset {
+    width: 600px;
+    margin-top: 20px;
+}
+
+textarea {
+    width: 500px;
+    height: 150px;
+    resize: none;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+    color: #1d59ba;
+}
+
+a:hover {
+    color: #0e3575;
+}
+
+#wrap {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.lblPad {
+    display: inline-block;
+    width: 100px;
+    margin: 5px 0;
+}
+
+.lbl {
+    vertical-align: top;
+}
+
+.pushRight {
+    text-align: right;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
+
+.error {
+    color: #e02626;
+    margin-left: 70px;
+}
+
+.errorInput {
+    border:2px solid #e02626;
+}
+
+#btn {
+    margin-left: 105px;
+    padding: 5px 10px;
+}
+
+
+
